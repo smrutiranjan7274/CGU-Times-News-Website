@@ -12,15 +12,14 @@
 
 ## Live Demo
 
-[Live Demo Link](https://eananti.github.io/News-Week-Clone/)
+[Live Demo Link](https://smrutiranjan7274.github.io/CGU-Times-News-Website/)
 
 ## Authors
 
 👤 **Author**
 
-- Github: 
-- Twitter: 
-- Linkedin: 
+- Github: [Smruti Ranjan Bhanja](https://github.com/smrutiranjan7274)
+- Linkedin: [srb7274](https://linkedin.com/in/srb7274)
 
 ## Show your support
 
